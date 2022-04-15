@@ -1,6 +1,6 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray VLESS on Heroku.",
+    "name": "v2ess",
+    "description": "DepV2y VLE on Herk",
     "keywords": ["V2Ray"],
     "env": {
         "ID": {
