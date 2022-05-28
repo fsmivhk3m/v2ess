@@ -1,7 +1,7 @@
 {
-    "name": "v2ess",
-    "description": "DepV2y VLE on Herk",
-    "keywords": ["V2Ray"],
+    "name": "v2railudi",
+    "description": "DepVv2railudiLE on Herk",
+    "keywords": ["v2railudi"],
     "env": {
         "ID": {
             "description": "UUID",
